@@ -1,0 +1,230 @@
+.addCase{
+    height: 450px;
+}
+.media
+{
+    /*box-shadow:0px 0px 4px -2px #000;*/
+    margin: 20px 0;
+    padding:30px;
+}
+.dp
+{
+    border:10px solid #eee;
+    transition: all 0.2s ease-in-out;
+}
+.dp:hover
+{
+    border:2px solid #eee;
+    transform:rotate(360deg);
+    -ms-transform:rotate(360deg);
+    -webkit-transform:rotate(360deg);
+    /*-webkit-font-smoothing:antialiased;*/
+}
+.normal
+{
+    color: rgba(0, 0, 0, 0.81);
+    border-color: #000000;
+
+}
+.genuine
+{
+    color:#4D7455;
+    border-color: #4D7455;
+
+}
+.elder
+{
+    color:#476291;
+    border-color: #476291;
+
+}
+.self-made
+{
+    color:#70B04A;
+    border-color: #70B04A;
+
+}
+.unusual
+{
+    color:#8650AC;
+    border-color: #8650AC;
+
+}
+.inscribed
+{
+    color:#CF6A32;
+    border-color: #CF6A32;
+}
+.cursed
+{
+    color:#8650AC;
+    border-color: #8650AC;
+
+}
+.heroic
+{
+    color:#8650AC;
+    border-color: #8650AC;
+
+}
+.favored
+{
+    color:#FFFF00;
+    border-color: #FFFF00;
+
+}
+.ascendant
+{
+    color:#EB4B4B;
+    border-color: #EB4B4B;
+
+}
+.autographed
+{
+    color:#ADE55C;
+    border-color: #ADE55C;
+
+}
+.legacy
+{
+    color:#FFFFFF;
+    border-color: #FFFFFF;
+
+}
+.exalted
+{
+    color:#CCCCCC;
+    border-color: #CCCCCC;
+
+}
+.frozen
+{
+    color:#4682B4;
+    border-color: #4682B4;
+
+}
+.corrupted
+{
+    color:#A52A2A;
+    border-color: #A52A2A;
+
+}
+.auspicious
+{
+    color:#32CD32;
+    border-color: #32CD32;
+}
+.label-common {
+    background-color: #b0c3d9;
+}
+.label-uncommon {
+    background-color: #5e98d9;
+}
+.label-rare {
+    background-color: #4b69ff;
+}
+.label-mythical {
+    background-color: #8847ff;
+}
+.label-legendary {
+    background-color: #d32ce6;
+}
+.label-ancient {
+    background-color: #eb4b4b;
+}
+.label-immortal {
+    background-color: #e4ae39;
+}
+.label-arcana {
+    background-color: #ade55c;
+}
+.label-strange {
+    background-color: #CF6A32;
+}
+.common {
+    color: #b0c3d9;
+    font-weight: bolder;
+}
+.uncommon {
+    color: #5e98d9;
+    font-weight: bolder;
+}
+.rare {
+    color: #4b69ff;
+    font-weight: bolder;
+}
+.mythical {
+    color: #8847ff;
+    font-weight: bolder;
+}
+.legendary {
+    color: #d32ce6;
+    font-weight: bolder;
+}
+.ancient {
+    color: #eb4b4b;
+    font-weight: bolder;
+}
+.immortal {
+    color: #e4ae39;
+    font-weight: bolder;
+}
+.arcana {
+    color: #ade55c;
+    font-weight: bolder;
+}
+.inscribed {
+    color: #CF6A32;
+    font-weight: bolder;
+}
+
+.coin-color{
+    color: #f6a50b;
+    font-weight: bolder;
+}
+#infscr-loading>img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.coin-img{
+}
+ul.dropdown-cart{
+    min-width:250px;
+}
+ul.dropdown-cart li .item{
+    display:block;
+    padding:3px 10px;
+    margin: 3px 0;
+}
+ul.dropdown-cart li .item:hover{
+    background-color:#f3f3f3;
+}
+ul.dropdown-cart li .item:after{
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+ul.dropdown-cart li .item-left{
+    float:left;
+}
+ul.dropdown-cart li .item-left img,
+ul.dropdown-cart li .item-left span.item-info{
+    float:left;
+}
+ul.dropdown-cart li .item-left span.item-info{
+    margin-left:10px;
+}
+ul.dropdown-cart li .item-left span.item-info span{
+    display:block;
+}
+ul.dropdown-cart li .item-right{
+    float:right;
+}
+ul.dropdown-cart li .item-right button{
+    margin-top:14px;
+}

@@ -1,0 +1,4497 @@
+
+		"16064"
+		{
+			"name"		"SLTV Pro Series Season X"
+			"prefab"		"league"
+			"creation_date"		"2014-09-26"
+			"image_banner"		"econ/leagues/subscriptions_sltv10proseries_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_sltv10proseries"
+			"item_description"		"#DOTA_Item_Desc_SLTV_Pro_Series_Season_X"
+			"item_name"		"#DOTA_Item_SLTV_Pro_Series_Season_X"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2051"
+					"order"		"568"
+					"tier"		"professional"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://dota2.starladder.tv/"
+			"used_by_heroes"		"1"
+		}
+		"16065"
+		{
+			"name"		"AD2L Season 5 Inhouse League"
+			"prefab"		"league"
+			"creation_date"		"2014-09-26"
+			"image_banner"		"econ/leagues/subscriptions_ad2l_s5inhouse_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_ad2l_s5inhouse"
+			"item_description"		"#DOTA_Item_Desc_AD2L_Season_5_Inhouse_League"
+			"item_name"		"#DOTA_Item_AD2L_Season_5_Inhouse_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2047"
+					"order"		"568"
+					"free_to_spectate"		"1"
+					"tier"		"amateur"
+					"location"		"northamerica"
+				}
+			}
+			"tournament_url"		"http://amateurdota2league.com"
+			"used_by_heroes"		"1"
+		}
+		"16066"
+		{
+			"name"		"The Summit 2 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-09-26"
+			"image_banner"		"econ/leagues/subscriptions_summit2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_summit2"
+			"item_description"		"#DOTA_Item_Desc_The_Summit_2_Ticket"
+			"item_name"		"#DOTA_Item_The_Summit_2_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"9/30/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"1936"
+					"order"		"569"
+					"tier"		"premium"
+					"premium"		"1"
+					"bonus_itemdefs"
+					{
+						"10879"		"1"
+						"10878"		"1"
+						"10880"		"1"
+						"7226"		"1"
+					}
+					"prize_pool"
+					{
+						"base_prize_pool"		"100000"
+						"stop_sales_time"		"1418032800"
+						"description"		"#DOTA_Item_Desc_The_Summit_2"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"20658"
+								"revenue_percent"		"0.250000"
+							}
+							"1"
+							{
+								"itemdef"		"10881"
+								"revenue_percent"		"0.100000"
+							}
+						}
+					}
+				}
+			}
+			"tournament_url"		"http://summit.beyondthesummit.tv/"
+			"used_by_heroes"		"1"
+		}
+		"16067"
+		{
+			"name"		"DotaCinema XMG Captains Draft 2.0 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-10-28"
+			"image_banner"		"econ/leagues/captains_draft_2_ingame"
+			"image_inventory"		"econ/leagues/captains_draft_2_ticket"
+			"item_description"		"#DOTA_Item_Desc_DotaCinema_XMG_Captains_Draft_20_Ticket"
+			"item_name"		"#DOTA_Item_DotaCinema_XMG_Captains_Draft_20_Ticket"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_League_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/28/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2140"
+					"order"		"599"
+					"tier"		"premium"
+					"prize_pool"
+					{
+						"base_prize_pool"		"50000"
+						"stop_sales_time"		"1419163200"
+						"description"		"#DOTA_Item_Desc_DotaCinema_XMG_Captains_Draft_20_Ticket"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"20665"
+								"revenue_percent"		"0.250000"
+							}
+							"1"
+							{
+								"itemdef"		"20662"
+								"revenue_percent"		"0.100000"
+							}
+						}
+					}
+				}
+			}
+			"tournament_url"		"http://www.dotacinema.com/"
+			"used_by_heroes"		"1"
+		}
+		"16068"
+		{
+			"name"		"Arabian Dota League"
+			"prefab"		"league"
+			"creation_date"		"2014-10-22"
+			"image_banner"		"econ/leagues/subscriptions_arabiandotaleague_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_arabiandotaleague"
+			"item_description"		"#DOTA_Item_Desc_Arabian_Dota_League"
+			"item_name"		"#DOTA_Item_Arabian_Dota_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/24/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2067"
+					"order"		"593"
+					"tier"		"professional"
+					"location"		"unset"
+				}
+			}
+			"tournament_url"		"http://www.arabdota.com"
+			"used_by_heroes"		"1"
+		}
+		"16069"
+		{
+			"name"		"Effigy Block of Triumph"
+			"prefab"		"tool"
+			"capabilities"
+			{
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-09-29"
+			"image_inventory"		"econ/tools/effigyblock_ti4"
+			"item_class"		"dota_item_wearable"
+			"item_description"		"#DOTA_Item_Desc_Effigy_Block_of_Triumph"
+			"item_name"		"#DOTA_Item_Effigy_Block_of_Triumph"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_"
+			"static_attributes"
+			{
+				"cannot trade"
+				{
+					"attribute_class"		"cannot_trade"
+					"value"		"1"
+				}
+				"not marketable"
+				{
+					"attribute_class"		"not marketable"
+					"value"		"1"
+				}
+				"is commodity"
+				{
+					"attribute_class"		"is commodity"
+					"value"		"1"
+				}
+			}
+			"tool"
+			{
+				"type"		"hero_statue_forge"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"status_effect"		"1"
+					"effigy_itemdef_index"		"16034"
+				}
+			}
+		}
+		"16070"
+		{
+			"name"		"World Cyber Arena"
+			"prefab"		"league"
+			"creation_date"		"2014-10-01"
+			"image_banner"		"econ/leagues/subscriptions_wca_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_wca"
+			"item_description"		"#DOTA_Item_Desc_World_Cyber_Arena"
+			"item_name"		"#DOTA_Item_World_Cyber_Arena"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/1/2014"
+				"price"		"499"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2045"
+					"order"		"570"
+					"tier"		"premium"
+				}
+			}
+			"tournament_url"		"http://www.wca.com.cn/"
+			"used_by_heroes"		"1"
+		}
+		"16071"
+		{
+			"name"		"Defense of the Australians Spring 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-10-01"
+			"image_banner"		"econ/leagues/subscriptions_defenseoftheaustralians2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_defenseoftheaustralians2014"
+			"item_description"		"#DOTA_Item_Desc_Defense_of_the_Australians_Spring_2014"
+			"item_name"		"#DOTA_Item_Defense_of_the_Australians_Spring_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/2/2014"
+				"price"		"149"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2084"
+					"order"		"571"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://www.d2t.com.au/"
+			"used_by_heroes"		"1"
+		}
+		"16072"
+		{
+			"name"		"Digital Wars Online"
+			"prefab"		"league"
+			"creation_date"		"2014-10-14"
+			"image_banner"		"econ/leagues/subscriptions_digitalwarsonline_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_digitalwarsonline"
+			"item_description"		"#DOTA_Item_Desc_Digital_Wars_Online"
+			"item_name"		"#DOTA_Item_Digital_Wars_Online"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/2/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2046"
+					"order"		"588"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://forum.esports.co.in/forum/announcements/tournament-announcements/362-digital-wars-online-season-iii-powered-by-benq"
+			"used_by_heroes"		"1"
+		}
+		"16073"
+		{
+			"name"		"League of Dota Season 6 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-10-01"
+			"image_banner"		"econ/leagues/subscriptions_leagueofdotas6ticket_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_leagueofdotas6ticket"
+			"item_description"		"#DOTA_Item_Desc_League_of_Dota_Season_6_Ticket"
+			"item_name"		"#DOTA_Item_League_of_Dota_Season_6_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"1970"
+					"order"		"573"
+					"tier"		"amateur"
+					"location"		"northamerica"
+				}
+			}
+			"tournament_url"		"http://leagueofdota.com/"
+			"used_by_heroes"		"1"
+		}
+		"16074"
+		{
+			"name"		"Telkom Gaming Championships 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-10-01"
+			"image_banner"		"econ/leagues/subscriptions_telkom2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_telkom2014"
+			"item_description"		"#DOTA_Item_Desc_Telkom_Gaming_Championships_2014"
+			"item_name"		"#DOTA_Item_Telkom_Gaming_Championships_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"1933"
+					"order"		"574"
+					"tier"		"amateur"
+					"location"		"europe"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.dogamingleague.co.za/"
+			"used_by_heroes"		"1"
+		}
+		"16075"
+		{
+			"name"		"JoinDota League Season 4"
+			"prefab"		"league"
+			"creation_date"		"2014-10-01"
+			"image_banner"		"econ/leagues/subscriptions_joindotas4_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_joindotas4"
+			"item_description"		"#DOTA_Item_Desc_JoinDota_League_Season_4"
+			"item_name"		"#DOTA_Item_JoinDota_League_Season_4"
+			"item_rarity"		"uncommon"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/2/2014"
+				"price"		"399"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"1980"
+					"order"		"575"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://www.joindota.com/en/leagues/"
+			"used_by_heroes"		"1"
+		}
+		"16076"
+		{
+			"name"		"Circuito LVP Dota 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-01"
+			"image_banner"		"econ/leagues/subscriptions_circuito_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_circuito"
+			"item_description"		"#DOTA_Item_Desc_Circuito_LVP_Dota_2"
+			"item_name"		"#DOTA_Item_Circuito_LVP_Dota_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/2/2014"
+				"price"		"199"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"prize_pool"
+					{
+						"base_prize_pool"		"4435"
+						"stop_sales_time"		"1417946400"
+						"description"		"#DOTA_Item_Desc_Circuito_LVP_Dota_2"
+						"items"
+						{
+							"item"
+							{
+								"itemdef"		"16076"
+								"revenue_percent"		"0.250000"
+							}
+						}
+					}
+					"league_id"		"1939"
+					"order"		"576"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://www.lvp.es/"
+			"used_by_heroes"		"1"
+		}
+		"16077"
+		{
+			"name"		"Exp Solo Cup Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-10-01"
+			"image_banner"		"econ/leagues/subscriptions_expsolo_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_expsolo"
+			"item_description"		"#DOTA_Item_Desc_Exp_Solo_Cup_Season_1"
+			"item_name"		"#DOTA_Item_Exp_Solo_Cup_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/2/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"1956"
+					"order"		"577"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://edcso.bl.ee/"
+			"used_by_heroes"		"1"
+		}
+		"16078"
+		{
+			"name"		"Tactic Hive League Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-10-02"
+			"image_banner"		"econ/leagues/subscriptions_tactichive_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_tactichive"
+			"item_description"		"#DOTA_Item_Desc_Tactic_Hive_League_Season_1"
+			"item_name"		"#DOTA_Item_Tactic_Hive_League_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"1776"
+					"order"		"578"
+					"free_to_spectate"		"1"
+					"tier"		"amateur"
+					"location"		"northamerica"
+				}
+			}
+			"tournament_url"		"http://www.tactichive.com/"
+			"used_by_heroes"		"1"
+		}
+		"16079"
+		{
+			"name"		"Treasure Redemption Token"
+			"prefab"		"key"
+			"capabilities"
+			{
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-10-10"
+			"image_inventory"		"econ/tools/redemptiontoken"
+			"item_description"		"#DOTA_Item_Desc_Free_Treasure_Redemption"
+			"item_name"		"#DOTA_Item_Treasure_Redemption_Token"
+			"item_rarity"		"rare"
+			"sound_material"		"3"
+			"static_attributes"
+			{
+				"is commodity"
+				{
+					"attribute_class"		"is commodity"
+					"value"		"1"
+				}
+			}
+			"tool"
+			{
+				"type"		"item_redemption"
+				"use_string"		"#DOTA_UI_Redeem2"
+				"usage"
+				{
+					"redemption"		"treasure_redemption_token"
+				}
+			}
+		}
+		"16080"
+		{
+			"name"		"Dota2VO Ability Cup #2 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-10-12"
+			"image_banner"		"econ/leagues/subscriptions_abilitycup2ticket_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_abilitycup2ticket"
+			"item_description"		"#DOTA_Item_Desc_Dota2VO_Ability_Cup_#2_Ticket"
+			"item_name"		"#DOTA_Item_Dota2VO_Ability_Cup_#2_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2000"
+					"order"		"579"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://dota2vo.ru/ability-cup/en/"
+			"used_by_heroes"		"1"
+		}
+		"16081"
+		{
+			"name"		"Impact Gaming Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_impact_gaming_s1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_impact_gaming_s1"
+			"item_description"		"#DOTA_Item_Desc_Impact_Gaming_Season_1"
+			"item_name"		"#DOTA_Item_Impact_Gaming_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2031"
+					"order"		"580"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.impact-gaming.org/"
+			"used_by_heroes"		"1"
+		}
+		"16082"
+		{
+			"name"		"STG League Season One"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_stgs1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_stgs1"
+			"item_description"		"#DOTA_Item_Desc_STG_League_Season_One"
+			"item_name"		"#DOTA_Item_STG_League_Season_One"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2012"
+					"order"		"581"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://www.stg-league.ml/"
+			"used_by_heroes"		"1"
+		}
+		"16083"
+		{
+			"name"		"Vietnam eSports Champions League Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_vietnams2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_vietnams2"
+			"item_description"		"#DOTA_Item_Desc_Vietnam_eSports_Champions_League_Season_2"
+			"item_name"		"#DOTA_Item_Vietnam_eSports_Champions_League_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2013"
+					"order"		"582"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://esportsviet.vn/vecl"
+			"used_by_heroes"		"1"
+		}
+		"16084"
+		{
+			"name"		"DotaPy #2: Encore"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_dotapy_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dotapy"
+			"item_description"		"#DOTA_Item_Desc_DotaPy_#2_Encore"
+			"item_name"		"#DOTA_Item_DotaPy_#2_Encore"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2042"
+					"order"		"583"
+					"free_to_spectate"		"1"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://dotapy.com/"
+			"used_by_heroes"		"1"
+		}
+		"16085"
+		{
+			"name"		"WECG Korea National Final"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_wecgnational_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_wecgnational"
+			"item_description"		"#DOTA_Item_Desc_WECG_Korea_National_Final"
+			"item_name"		"#DOTA_Item_WECG_Korea_National_Final"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2058"
+					"order"		"584"
+					"tier"		"professional"
+					"location"		"unset"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://wecg.com/"
+			"used_by_heroes"		"1"
+		}
+		"16086"
+		{
+			"name"		"Vake Female Tournament"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_vakefemale_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_vakefemale"
+			"item_description"		"#DOTA_Item_Desc_Vake_Female_Tournament"
+			"item_name"		"#DOTA_Item_Vake_Female_Tournament"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2112"
+					"order"		"585"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://vakefemale.jimdo.com/"
+			"used_by_heroes"		"1"
+		}
+		"16087"
+		{
+			"name"		"ESL Think Fast Razer League Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_eslthinkfastticket_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_eslthinkfastticket"
+			"item_description"		"#DOTA_Item_Desc_ESL_Think_Fast_Razer_League_Ticket"
+			"item_name"		"#DOTA_Item_ESL_Think_Fast_Razer_League_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2061"
+					"order"		"586"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://www.senseyeesports.com/esl-think-fast-razer-league-by-senseye-esports/"
+			"used_by_heroes"		"1"
+		}
+		"16088"
+		{
+			"name"		"VIP Dota 2 Tournament"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_vip_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_vip"
+			"item_description"		"#DOTA_Item_Desc_VIP_Dota_2_Tournament"
+			"item_name"		"#DOTA_Item_VIP_Dota_2_Tournament"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2075"
+					"order"		"587"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://barganizer.net/"
+			"used_by_heroes"		"1"
+		}
+		"16089"
+		{
+			"name"		"PKDota's Weekend Showdown"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_pkdotaweekend_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_pkdotaweekend"
+			"item_description"		"#DOTA_Item_Desc_PKDotas_Weekend_Showdown"
+			"item_name"		"#DOTA_Item_PKDotas_Weekend_Showdown"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"199"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2069"
+					"order"		"588"
+					"tier"		"amateur"
+					"prize_pool"
+					{
+						"base_prize_pool"		"1"
+						"stop_sales_time"		"1419588000"
+						"description"		"#DOTA_Item_Desc_PKDotas_Weekend_Showdown"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"16089"
+								"revenue_percent"		"0.250000"
+							}
+						}
+					}
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://www.pkdota.com/"
+			"used_by_heroes"		"1"
+		}
+		"16090"
+		{
+			"name"		"Copa Chile 2 Expogeek"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_copachile_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_copachile"
+			"item_description"		"#DOTA_Item_Desc_Copa_Chile_2_Expogeek"
+			"item_name"		"#DOTA_Item_Copa_Chile_2_Expogeek"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2077"
+					"order"		"589"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://livedota.tv/?p=1800"
+			"used_by_heroes"		"1"
+		}
+		"16091"
+		{
+			"name"		"Synergy League Season 1 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-10-13"
+			"image_banner"		"econ/leagues/subscriptions_synergyticket_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_synergyticket"
+			"item_description"		"#DOTA_Item_Desc_Synergy_League_Season_1_Ticket"
+			"item_name"		"#DOTA_Item_Synergy_League_Season_1_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"1934"
+					"order"		"590"
+					"tier"		"premium"
+					"premium"		"1"
+					"prize_pool"
+					{
+						"base_prize_pool"		"50000"
+						"stop_sales_time"		"1417341600"
+						"description"		"#DOTA_Item_Desc_Synergy_League_Season_1_Ticket"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"20669"
+								"revenue_percent"		"0.250000"
+							}
+						}
+					}
+				}
+			}
+			"tournament_url"		"http://synergyleague.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16092"
+		{
+			"name"		"HyperX D2L Season 5"
+			"prefab"		"league"
+			"creation_date"		"2014-10-14"
+			"image_banner"		"econ/leagues/subscriptions_d2ls5_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_d2ls5"
+			"item_description"		"#DOTA_Item_Desc_HyperX_D2L_Season_5"
+			"item_name"		"#DOTA_Item_HyperX_D2L_Season_5"
+			"item_rarity"		"uncommon"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/14/2014"
+				"price"		"499"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2096"
+					"order"		"591"
+					"tier"		"premium"
+					"prize_pool"
+					{
+						"base_prize_pool"		"50000"
+						"stop_sales_time"		"1420624800"
+						"description"		"#DOTA_Item_Desc_HyperX_D2L_Season_5"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"16092"
+								"revenue_percent"		"0.250000"
+							}
+						}
+					}
+				}
+			}
+			"tournament_url"		"http://www.d2l.gg/"
+			"used_by_heroes"		"1"
+		}
+		"16093"
+		{
+			"name"		"Dota 2 Secondary Pro League"
+			"prefab"		"league"
+			"creation_date"		"2014-10-15"
+			"image_banner"		"econ/leagues/subscriptions_secondaryproleague_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_secondaryproleague"
+			"item_description"		"#DOTA_Item_Desc_Dota_2_Secondary_Pro_League"
+			"item_name"		"#DOTA_Item_Dota_2_Secondary_Pro_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2119"
+					"order"		"592"
+					"tier"		"amateur"
+					"free_to_spectate"		"1"
+					"location"		"china"
+				}
+			}
+			"tournament_url"		"http://www.dota2.com.cn/event/201408/dspl/index.htm"
+			"used_by_heroes"		"1"
+		}
+		"16094"
+		{
+			"name"		"G-League 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-10-24"
+			"image_banner"		"econ/leagues/subscriptions_gleague2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_gleague2014"
+			"item_description"		"#DOTA_Item_Desc_GLeague_2014"
+			"item_name"		"#DOTA_Item_GLeague_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2032"
+					"order"		"594"
+					"free_to_spectate"		"1"
+					"tier"		"premium"
+				}
+			}
+			"tournament_url"		"http://gleague.gamefy.cn/"
+			"used_by_heroes"		"1"
+		}
+		"16095"
+		{
+			"name"		"Electro DCL Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_electrodcls2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_electrodcls2"
+			"item_description"		"#DOTA_Item_Desc_Electro_DCL_Season_2"
+			"item_name"		"#DOTA_Item_Electro_DCL_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2085"
+					"order"		"600"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://electrodl.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16096"
+		{
+			"name"		"Korea Dota League Season 4 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-10-24"
+			"image_banner"		"econ/leagues/subscriptions_kdls4_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_kdls4"
+			"item_description"		"#DOTA_Item_Desc_Korea_Dota_League_Season_4_Ticket"
+			"item_name"		"#DOTA_Item_Korea_Dota_League_Season_4_Ticket"
+			"item_rarity"		"uncommon"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/24/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2057"
+					"order"		"596"
+					"tier"		"premium"
+				}
+			}
+			"tournament_url"		"http://dota2.nexon.com/"
+			"used_by_heroes"		"1"
+		}
+		"16097"
+		{
+			"name"		"Dota 2 Starter League"
+			"prefab"		"league"
+			"creation_date"		"2014-10-24"
+			"image_banner"		"econ/leagues/subscriptions_starterleague_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_starterleague"
+			"item_description"		"#DOTA_Item_Desc_Dota_2_Starter_League"
+			"item_name"		"#DOTA_Item_Dota_2_Starter_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/24/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2066"
+					"order"		"597"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://www.dota2esports.net/"
+			"used_by_heroes"		"1"
+		}
+		"16098"
+		{
+			"name"		"GDL Season 4"
+			"prefab"		"league"
+			"creation_date"		"2014-10-24"
+			"image_banner"		"econ/leagues/subscriptions_gdlseason4_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_gdlseason4"
+			"item_description"		"#DOTA_Item_Desc_GDL_Season_4"
+			"item_name"		"#DOTA_Item_GDL_Season_4"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/24/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2056"
+					"order"		"598"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://www.lks174.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16099"
+		{
+			"name"		"Persia Grand League"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_persia_grand_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_persia_grand_league"
+			"item_description"		"#DOTA_Item_Desc_Persia_Grand_League"
+			"item_name"		"#DOTA_Item_Persia_Grand_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2030"
+					"order"		"601"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.dota2club.ir/"
+			"used_by_heroes"		"1"
+		}
+		"16100"
+		{
+			"name"		"KDL Season 4 - Tier 3"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_kdltier3_s4_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_kdltier3_s4"
+			"item_description"		"#DOTA_Item_Desc_KDL_Season_4__Tier_3"
+			"item_name"		"#DOTA_Item_KDL_Season_4__Tier_3"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2059"
+					"order"		"602"
+					"free_to_spectate"		"1"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://dota2.nexon.com/League/KDL/KDL_Season4_01.aspx"
+			"used_by_heroes"		"1"
+		}
+		"16101"
+		{
+			"name"		"MOL Dota 2 Tournament"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_mol_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_mol"
+			"item_description"		"#DOTA_Item_Desc_MOL_Dota_2_Tournament"
+			"item_name"		"#DOTA_Item_MOL_Dota_2_Tournament"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2082"
+					"order"		"603"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://barganizer.net/"
+			"used_by_heroes"		"1"
+		}
+		"16102"
+		{
+			"name"		"Dota 2 Gonzaga Festival"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_gonzaga_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_gonzaga"
+			"item_description"		"#DOTA_Item_Desc_Dota_2_Gonzaga_Festival"
+			"item_name"		"#DOTA_Item_Dota_2_Gonzaga_Festival"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2142"
+					"order"		"604"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://www.maindota2.com/events/gonzaga-fest/"
+			"used_by_heroes"		"1"
+		}
+		"16103"
+		{
+			"name"		"GG League Season 2 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_ggleagues2ticket_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_ggleagues2ticket"
+			"item_description"		"#DOTA_Item_Desc_GG_League_Season_2_Ticket"
+			"item_name"		"#DOTA_Item_GG_League_Season_2_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2019"
+					"order"		"605"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://www.goodgaming.pro/"
+			"used_by_heroes"		"1"
+		}
+		"16104"
+		{
+			"name"		"SDL 2014 Season 4"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_sdls4_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_sdls4"
+			"item_description"		"#DOTA_Item_Desc_SDL_2014_Season_4"
+			"item_name"		"#DOTA_Item_SDL_2014_Season_4"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2094"
+					"order"		"606"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://www.shigueoleague.com/"
+			"used_by_heroes"		"1"
+		}
+		"16105"
+		{
+			"name"		"Electro Dota 2 League - Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_electroleagues2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_electroleagues2"
+			"item_description"		"#DOTA_Item_Desc_Electro_Dota_2_League__Season_2"
+			"item_name"		"#DOTA_Item_Electro_Dota_2_League__Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2083"
+					"order"		"607"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://electrodl.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16106"
+		{
+			"name"		"Exp Dota Cup Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_expsolos2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_expsolos2"
+			"item_description"		"#DOTA_Item_Desc_Exp_Dota_Cup_Season_2"
+			"item_name"		"#DOTA_Item_Exp_Dota_Cup_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2095"
+					"order"		"608"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://edcso.bl.ee/"
+			"used_by_heroes"		"1"
+		}
+		"16107"
+		{
+			"name"		"Exp Solo Cup Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_expsolocups2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_expsolocups2"
+			"item_description"		"#DOTA_Item_Desc_Exp_Solo_Cup_Season_2"
+			"item_name"		"#DOTA_Item_Exp_Solo_Cup_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2101"
+					"order"		"609"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://edcso.bl.ee/"
+			"used_by_heroes"		"1"
+		}
+		"16108"
+		{
+			"name"		"GCDL Season 8"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_gcdls8_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_gcdls8"
+			"item_description"		"#DOTA_Item_Desc_GCDL_Season_8"
+			"item_name"		"#DOTA_Item_GCDL_Season_8"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2090"
+					"order"		"610"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://gamer.lk/gcdl/"
+			"used_by_heroes"		"1"
+		}
+		"16109"
+		{
+			"name"		"deafESL League Season 3"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_deafesls3_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_deafesls3"
+			"item_description"		"#DOTA_Item_Desc_deafESL_League_Season_3"
+			"item_name"		"#DOTA_Item_deafESL_League_Season_3"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2073"
+					"order"		"611"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://dota2.deafesl.com/tournaments/league/"
+			"used_by_heroes"		"1"
+		}
+		"16110"
+		{
+			"name"		"Dota2Feed 1v1 Solo Mid Cup"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_dota2feed1v1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dota2feed1v1"
+			"item_description"		"#DOTA_Item_Desc_Dota2Feed_1v1_Solo_Mid_Cup"
+			"item_name"		"#DOTA_Item_Dota2Feed_1v1_Solo_Mid_Cup"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"1898"
+					"order"		"612"
+					"tier"		"amateur"
+					"location"		"russia"
+					"free_to_spectate"		"0"
+				}
+			}
+			"tournament_url"		"http://d2feed.my1.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16111"
+		{
+			"name"		"Dota2FP Atlantic"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_dota2fp_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dota2fp"
+			"item_description"		"#DOTA_Item_Desc_Dota2FP_Atlantic"
+			"item_name"		"#DOTA_Item_Dota2FP_Atlantic"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2054"
+					"order"		"613"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://facepunch.com/showthread.php?t=1425920"
+			"used_by_heroes"		"1"
+		}
+		"16112"
+		{
+			"name"		"CSPL.RU Dota 2 League Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_csplrus2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_csplrus2"
+			"item_description"		"#DOTA_Item_Desc_CSPLRU_Dota_2_League_Season_2"
+			"item_name"		"#DOTA_Item_CSPLRU_Dota_2_League_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2091"
+					"order"		"614"
+					"tier"		"amateur"
+					"location"		"russia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.cspl.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16113"
+		{
+			"name"		"Deadly Gaming Cup Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_deadlygaming_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_deadlygaming"
+			"item_description"		"#DOTA_Item_Desc_Deadly_Gaming_Cup_Season_1"
+			"item_name"		"#DOTA_Item_Deadly_Gaming_Cup_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2076"
+					"order"		"615"
+					"tier"		"professional"
+					"location"		"unset"
+				}
+			}
+			"tournament_url"		"http://dgm-cup.tk/"
+			"used_by_heroes"		"1"
+		}
+		"16114"
+		{
+			"name"		"D2LPR Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_d2lprs2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_d2lprs2"
+			"item_description"		"#DOTA_Item_Desc_D2LPR_Season_2"
+			"item_name"		"#DOTA_Item_D2LPR_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2004"
+					"order"		"616"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://www.d2lpr.do.am/"
+			"used_by_heroes"		"1"
+		}
+		"16115"
+		{
+			"name"		"Silver Dota League 2"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_silverleagues2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_silverleagues2"
+			"item_description"		"#DOTA_Item_Desc_Silver_Dota_League_2"
+			"item_name"		"#DOTA_Item_Silver_Dota_League_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2110"
+					"order"		"617"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://www.silver-dota2.com/"
+			"used_by_heroes"		"1"
+		}
+		"16116"
+		{
+			"name"		"Dota Regions: Season 2 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_regionss2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_regionss2"
+			"item_description"		"#DOTA_Item_Desc_Dota_Regions_Season_2_Ticket"
+			"item_name"		"#DOTA_Item_Dota_Regions_Season_2_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/9/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2044"
+					"order"		"618"
+					"tier"		"professional"
+					"location"		"unset"
+				}
+			}
+			"tournament_url"		"http://www.dotaregions.com/"
+			"used_by_heroes"		"1"
+		}
+		"16117"
+		{
+			"name"		"Uprise Champions Cup Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-10-30"
+			"image_banner"		"econ/leagues/subscriptions_uprise_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_uprise"
+			"item_description"		"#DOTA_Item_Desc_Uprise_Champions_Cup_Season_1"
+			"item_name"		"#DOTA_Item_Uprise_Champions_Cup_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"10/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2080"
+					"order"		"619"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://uccup.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16118"
+		{
+			"name"		"PKDota's The National Brawl"
+			"prefab"		"league"
+			"creation_date"		"2015-06-02"
+			"image_banner"		"econ/leagues/subscriptions_pkdotas_the_national_brawl_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_pkdotas_the_national_brawl"
+			"item_description"		"#DOTA_Item_Desc_PKDotas_The_National_Brawl"
+			"item_name"		"#DOTA_Item_PKDotas_The_National_Brawl"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3241"
+					"order"		"2600"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.pkdota.com/"
+			"used_by_heroes"		"1"
+		}
+		"16119"
+		{
+			"name"		"MPGL Gigabyte 2014 Finals"
+			"prefab"		"league"
+			"creation_date"		"2014-11-04"
+			"image_banner"		"econ/leagues/subscriptions_mpgl2014new_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_mpgl2014new"
+			"item_description"		"#DOTA_Item_Desc_MPGL_Gigabyte_2014_Finals"
+			"item_name"		"#DOTA_Item_MPGL_Gigabyte_2014_Finals"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/4/2014"
+				"price"		"299"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2050"
+					"order"		"621"
+					"tier"		"professional"
+					"prize_pool"
+					{
+						"base_prize_pool"		"20000"
+						"stop_sales_time"		"1417341600"
+						"description"		"#DOTA_Item_Desc_MPGL_Gigabyte_2014_Finals"
+						"items"
+						{
+							"item"
+							{
+								"itemdef"		"16119"
+								"revenue_percent"		"0.200000"
+							}
+						}
+					}
+					"location"		"unset"
+				}
+			}
+			"tournament_url"		"http://mpgl.mineski.net/"
+			"used_by_heroes"		"1"
+		}
+		"16120"
+		{
+			"name"		"Wars of Fortune Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-11-04"
+			"image_banner"		"econ/leagues/subscriptions_warsoffortune_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_warsoffortune"
+			"item_description"		"#DOTA_Item_Desc_Wars_of_Fortune_Season_2"
+			"item_name"		"#DOTA_Item_Wars_of_Fortune_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2070"
+					"order"		"622"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://catchersofluck.wix.com/warsoffortune"
+			"used_by_heroes"		"1"
+		}
+		"16121"
+		{
+			"name"		"Battle of Central Europe Season 3 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-11-07"
+			"image_banner"		"econ/leagues/subscriptions_boceticket_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_boceticket"
+			"item_description"		"#DOTA_Item_Desc_Battle_of_Central_Europe_Season_3_Ticket"
+			"item_name"		"#DOTA_Item_Battle_of_Central_Europe_Season_3_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/7/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2125"
+					"order"		"623"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://dota2leagues.eu/boce"
+			"used_by_heroes"		"1"
+		}
+		"16122"
+		{
+			"name"		"Dota2.Net Cup #1"
+			"prefab"		"league"
+			"creation_date"		"2014-11-07"
+			"image_banner"		"econ/leagues/subscriptions_dota2net_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dota2net"
+			"item_description"		"#DOTA_Item_Desc_Dota2Net_Cup_#1"
+			"item_name"		"#DOTA_Item_Dota2Net_Cup_#1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2139"
+					"order"		"624"
+					"free_to_spectate"		"1"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://dota2.net/"
+			"used_by_heroes"		"1"
+		}
+		"16123"
+		{
+			"name"		"CZ-SK Dota 2 League Season 3"
+			"prefab"		"league"
+			"creation_date"		"2014-11-07"
+			"image_banner"		"econ/leagues/subscriptions_cz-sk_dota_2_league_season_3_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_cz-sk_dota_2_league_season_3"
+			"item_description"		"#DOTA_Item_Desc_CZSK_Dota_2_League_Season_3"
+			"item_name"		"#DOTA_Item_CZSK_Dota_2_League_Season_3"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/7/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2106"
+					"order"		"625"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://www.dota2league.cz/"
+			"used_by_heroes"		"1"
+		}
+		"16124"
+		{
+			"name"		"Stellar: University of the Philippines Engineering Cup 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-11-07"
+			"image_banner"		"econ/leagues/subscriptions_stellar__university_of_the_philippines_engineering_cup_2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_stellar__university_of_the_philippines_engineering_cup_2014"
+			"item_description"		"#DOTA_Item_Desc_Stellar_University_of_the_Philippines_Engineering_Cup_2014"
+			"item_name"		"#DOTA_Item_Stellar_University_of_the_Philippines_Engineering_Cup_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2055"
+					"order"		"626"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://eleet.ph"
+			"used_by_heroes"		"1"
+		}
+		"16125"
+		{
+			"name"		"Trash Tier Inhouse League"
+			"prefab"		"league"
+			"creation_date"		"2014-11-07"
+			"image_banner"		"econ/leagues/subscriptions_trash_tier_inhouse_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_trash_tier_inhouse_league"
+			"item_description"		"#DOTA_Item_Desc_Trash_Tier_Inhouse_League"
+			"item_name"		"#DOTA_Item_Trash_Tier_Inhouse_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2154"
+					"order"		"627"
+					"tier"		"amateur"
+					"location"		"northamerica"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.reddit.com/r/redditdota2league/new/"
+			"used_by_heroes"		"1"
+		}
+		"16126"
+		{
+			"name"		"The Battle Fury 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-11-07"
+			"image_banner"		"econ/leagues/subscriptions_the_battle_fury_2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_the_battle_fury_2014"
+			"item_description"		"#DOTA_Item_Desc_The_Battle_Fury_2014"
+			"item_name"		"#DOTA_Item_The_Battle_Fury_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/7/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2105"
+					"order"		"628"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://thebattlefury.com"
+			"used_by_heroes"		"1"
+		}
+		"16127"
+		{
+			"name"		"Battle of America #2 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-11-07"
+			"image_banner"		"econ/leagues/subscriptions_battle_of_america_ticket_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_battle_of_america_ticket"
+			"item_description"		"#DOTA_Item_Desc_Battle_of_America_#2"
+			"item_name"		"#DOTA_Item_Battle_of_America_#2_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/9/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2126"
+					"order"		"629"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://dota2leagues.eu/boa/"
+			"used_by_heroes"		"1"
+		}
+		"16128"
+		{
+			"name"		"Charming Celebration"
+			"prefab"		"tool"
+			"capabilities"
+			{
+				"usable"		"1"
+				"usable_gc"		"1"
+			}
+			"creation_date"		"2014-11-07"
+			"image_inventory"		"econ/tools/charming_celebration"
+			"item_description"		"#DOTA_Item_Desc_Charming_Celebration"
+			"item_name"		"#DOTA_Item_Charming_Celebration"
+			"item_slot"		"action_item"
+			"item_type_name"		"#DOTA_WearableType_Consumable"
+			"expiration_date"		"2015-10-01 00:00:00"
+			"player_loadout"		"1"
+			"tool"
+			{
+				"type"		"hero_ability"
+			}
+			"visuals"
+			{
+				"asset_modifier0"
+				{
+					"type"		"ability_name"
+					"asset"		"shoot_firework"
+				}
+			}
+		}
+		"16129"
+		{
+			"name"		"deafESL World Championship 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-11-30"
+			"image_banner"		"econ/leagues/subscriptions_deafesl_world_championship_2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_deafesl_world_championship_2014"
+			"item_description"		"#DOTA_Item_Desc_deafESL_World_Championship_2014"
+			"item_name"		"#DOTA_Item_deafESL_World_Championship_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2074"
+					"order"		"653"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://dota2.deafesl.com/tournaments/world-cup/"
+			"used_by_heroes"		"1"
+		}
+		"16130"
+		{
+			"name"		"The 6th e-Sports World Championship Baku 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-11-10"
+			"image_banner"		"econ/leagues/subscriptions_the_6th_e-sports_world_championship_baku_2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_the_6th_e-sports_world_championship_baku_2014"
+			"item_description"		"#DOTA_Item_Desc_The_6th_eSports_World_Championship_Baku_2014"
+			"item_name"		"#DOTA_Item_The_6th_eSports_World_Championship_Baku_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/10/2014"
+				"price"		"399"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2079"
+					"order"		"630"
+					"tier"		"professional"
+					"location"		"unset"
+				}
+			}
+			"tournament_url"		"http://www.ie-sf.org"
+			"used_by_heroes"		"1"
+		}
+		"16131"
+		{
+			"name"		"SUQA Winter Solo Cup"
+			"prefab"		"league"
+			"creation_date"		"2014-11-11"
+			"image_banner"		"econ/leagues/subscriptions_suqa_winter_solo_cup_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_suqa_winter_solo_cup"
+			"item_description"		"#DOTA_Item_Desc_SUQA_Winter_Solo_Cup"
+			"item_name"		"#DOTA_Item_SUQA_Winter_Solo_Cup"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2124"
+					"order"		"631"
+					"tier"		"amateur"
+					"location"		"europe"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://dota2.imatch.tv/"
+			"used_by_heroes"		"1"
+		}
+		"16132"
+		{
+			"name"		"On Art Jam Game Cup"
+			"prefab"		"league"
+			"creation_date"		"2014-11-11"
+			"image_banner"		"econ/leagues/subscriptions_onart_gamecup_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_onart_gamecup"
+			"item_description"		"#DOTA_Item_Desc_On_Art_Jam_Game_Cup"
+			"item_name"		"#DOTA_Item_On_Art_Jam_Game_Cup"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2168"
+					"order"		"632"
+					"tier"		"amateur"
+					"location"		"southamerica"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://onart.net.br/"
+			"used_by_heroes"		"1"
+		}
+		"16133"
+		{
+			"name"		"The Will to Win Tournament Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-12-02"
+			"image_banner"		"econ/leagues/subscriptions_the_will_to_win_tournament_season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_the_will_to_win_tournament_season_2"
+			"item_description"		"#DOTA_Item_Desc_The_Will_to_Win_Tournament_Season_2"
+			"item_name"		"#DOTA_Item_The_Will_to_Win_Tournament_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/2/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2189"
+					"order"		"661"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://the-will-to-win.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16134"
+		{
+			"name"		"GameGod Games Arena DOTA 2 Championship"
+			"prefab"		"league"
+			"creation_date"		"2014-11-11"
+			"image_banner"		"econ/leagues/subscriptions_gamegod_games_arena_dota_2_championship_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_gamegod_games_arena_dota_2_championship"
+			"item_description"		"#DOTA_Item_Desc_GameGod_Games_Arena_DOTA_2_Championship"
+			"item_name"		"#DOTA_Item_GameGod_Games_Arena_DOTA_2_Championship"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/11/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2179"
+					"order"		"633"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://beta.esl.asia/in/dota2"
+			"used_by_heroes"		"1"
+		}
+		"16135"
+		{
+			"name"		"OGSeries Dota 2 Online Season 3"
+			"prefab"		"league"
+			"creation_date"		"2014-11-11"
+			"image_banner"		"econ/leagues/subscriptions_ogseries_dota2_online_season3_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_ogseries_dota2_online_season3"
+			"item_description"		"#DOTA_Item_Desc_OGSeries_DotA2_Online_Season3"
+			"item_name"		"#DOTA_Item_OGSeries_Dota_2_Online_Season_3"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/11/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2133"
+					"order"		"634"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://www.ogseries.tv/dota2/"
+			"used_by_heroes"		"1"
+		}
+		"16136"
+		{
+			"name"		"ASUS ROG DreamLeague Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-11-12"
+			"image_banner"		"econ/leagues/subscriptions_dreamleagues2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dreamleagues2"
+			"item_description"		"#DOTA_Item_Desc_ASUS_ROG_DreamLeague_Season_2"
+			"item_name"		"#DOTA_Item_ASUS_ROG_DreamLeague_Season_2"
+			"item_rarity"		"uncommon"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/12/2014"
+				"price"		"499"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2190"
+					"order"		"635"
+					"tier"		"premium"
+					"prize_pool"
+					{
+						"base_prize_pool"		"100000"
+						"stop_sales_time"		"1417291200"
+						"description"		"#DOTA_Item_Desc_ASUS_ROG_DreamLeague_Season_2"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"16136"
+								"revenue_percent"		"0.500000"
+							}
+						}
+					}
+				}
+			}
+			"used_by_heroes"		"1"
+		}
+		"16137"
+		{
+			"name"		"Giant Rocket League - Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-11-21"
+			"image_banner"		"econ/leagues/subscriptions_giant_rocket_league__season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_giant_rocket_league__season_2"
+			"item_description"		"#DOTA_Item_Desc_Giant_Rocket_League__Season_2"
+			"item_name"		"#DOTA_Item_Giant_Rocket_League__Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/21/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2065"
+					"order"		"644"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://www.giantrocket.com.ar/"
+			"used_by_heroes"		"1"
+		}
+		"16138"
+		{
+			"name"		"Phantom Assassin Gravestone Emoticon"
+			"prefab"		"tool"
+			"capabilities"
+			{
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-11-12"
+			"image_inventory"		"econ/tools/emoticons_paarcana"
+			"item_description"		"#DOTA_Item_Desc_Phantom_Assassin_Gravestone_Emoticon"
+			"item_name"		"#DOTA_Item_Phantom_Assassin_Gravestone_Emoticon"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_Emoticon_Unlock"
+			"price_info"
+			{
+				"category_tags"		"Tools"
+				"date"		"11/17/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"emoticon_unlock"
+				"use_string"		"#UnlockEmoticons"
+				"usage"
+				{
+					"emoticon_id_start"		"37"
+					"emoticon_id_end"		"37"
+				}
+			}
+		}
+		"16139"
+		{
+			"name"		"SLTV Star Series Season 11 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-11-13"
+			"image_banner"		"econ/leagues/subscriptions_sltv11_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_sltv11"
+			"item_description"		"#DOTA_Item_Desc_SLTV_Star_Series_Season_11_Ticket"
+			"item_name"		"#DOTA_Item_SLTV_Star_Series_Season_11_Ticket"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/13/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2158"
+					"order"		"637"
+					"tier"		"premium"
+					"prize_pool"
+					{
+						"base_prize_pool"		"80000"
+						"stop_sales_time"		"1421575200"
+						"description"		"#DOTA_Item_Desc_SLTV_Star_Series_Season_11_Ticket"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"20683"
+								"revenue_percent"		"0.250000"
+							}
+						}
+					}
+				}
+			}
+			"tournament_url"		"http://dota2.starladder.tv/"
+			"used_by_heroes"		"1"
+		}
+		"16140"
+		{
+			"name"		"Coliseum League"
+			"prefab"		"league"
+			"creation_date"		"2014-11-14"
+			"image_banner"		"econ/leagues/subscriptions_coliseum_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_coliseum_league"
+			"item_description"		"#DOTA_Item_Desc_Coliseum_League"
+			"item_name"		"#DOTA_Item_Coliseum_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/14/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2165"
+					"order"		"638"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://www.dotacoliseum.com.br"
+			"used_by_heroes"		"1"
+		}
+		"16141"
+		{
+			"name"		"GameEdge DOTA 2 Champion's League"
+			"prefab"		"league"
+			"creation_date"		"2014-11-14"
+			"image_banner"		"econ/leagues/subscriptions_gameedge_dota_2_champions_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_gameedge_dota_2_champions_league"
+			"item_description"		"#DOTA_Item_Desc_GameEdge_DOTA_2_Champions_League"
+			"item_name"		"#DOTA_Item_GameEdge_DOTA_2_Champions_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2197"
+					"order"		"639"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://dota2.gameedge.lk/"
+			"used_by_heroes"		"1"
+		}
+		"16142"
+		{
+			"name"		"HueBR Cup Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-11-14"
+			"image_banner"		"econ/leagues/subscriptions_huebr_cup_season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_huebr_cup_season_2"
+			"item_description"		"#DOTA_Item_Desc_HueBR_Cup_Season_2"
+			"item_name"		"#DOTA_Item_HueBR_Cup_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/14/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2127"
+					"order"		"640"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://brcup.wix.com/huebr"
+			"used_by_heroes"		"1"
+		}
+		"16143"
+		{
+			"name"		"CEVO Season 6 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-11-14"
+			"image_banner"		"econ/leagues/subscriptions_cevo_season_6_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_cevo_season_6"
+			"item_description"		"#DOTA_Item_Desc_CEVO_Season_6_Ticket"
+			"item_name"		"#DOTA_Item_CEVO_Season_6_Ticket"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/18/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2134"
+					"order"		"641"
+					"tier"		"professional"
+					"prize_pool"
+					{
+						"base_prize_pool"		"1000"
+						"stop_sales_time"		"1429120800"
+						"description"		"#DOTA_Item_Desc_CEVO_Season_6_Ticket"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"20704"
+								"revenue_percent"		"0.250000"
+							}
+						}
+					}
+				}
+			}
+			"tournament_url"		"http://cevo.com/event/dota2/?tg=120"
+			"used_by_heroes"		"1"
+		}
+		"16144"
+		{
+			"name"		"ProDota League"
+			"prefab"		"league"
+			"creation_date"		"2014-11-14"
+			"image_banner"		"econ/leagues/subscriptions_prodota_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_prodota_league"
+			"item_description"		"#DOTA_Item_Desc_ProDota_League"
+			"item_name"		"#DOTA_Item_ProDota_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/14/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2136"
+					"order"		"642"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://ixdl.net/index.php/forum/366-prodota-league/"
+			"used_by_heroes"		"1"
+		}
+		"16145"
+		{
+			"name"		"Esportal Dota 2 League Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-11-20"
+			"image_banner"		"econ/leagues/subscriptions_esportal_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_esportal"
+			"item_description"		"#DOTA_Item_Desc_Esportal_Dota_2_League_Ticket"
+			"item_name"		"#DOTA_Item_Esportal_Dota_2_League_Ticket"
+			"item_rarity"		"uncommon"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/20/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2172"
+					"order"		"643"
+					"tier"		"professional"
+					"prize_pool"
+					{
+						"base_prize_pool"		"137940"
+						"stop_sales_time"		"1427882400"
+						"description"		"#DOTA_Item_Esportal_Dota_2_League_Ticket"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"20685"
+								"revenue_percent"		"0.250000"
+							}
+						}
+					}
+				}
+			}
+			"tournament_url"		"http://esportal.com/"
+			"used_by_heroes"		"1"
+		}
+		"16146"
+		{
+			"name"		"Cyberviews 1v1 Cup"
+			"prefab"		"league"
+			"creation_date"		"2014-11-21"
+			"image_banner"		"econ/leagues/subscriptions_cyberviews_1x1_cup_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_cyberviews_1x1_cup"
+			"item_description"		"#DOTA_Item_Desc_Cyberviews_1v1_Cup"
+			"item_name"		"#DOTA_Item_Cyberviews_1v1_Cup"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/21/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2114"
+					"order"		"645"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://cyberviews.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16147"
+		{
+			"name"		"SLTV Pro Series Season 11"
+			"prefab"		"league"
+			"creation_date"		"2014-11-21"
+			"image_banner"		"econ/leagues/subscriptions_sltv_pro_series_season_11_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_sltv_pro_series_season_11"
+			"item_description"		"#DOTA_Item_Desc_SLTV_Pro_Series_Season_11"
+			"item_name"		"#DOTA_Item_SLTV_Pro_Series_Season_11"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2171"
+					"order"		"646"
+					"tier"		"professional"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://dota2.starladder.tv/"
+			"used_by_heroes"		"1"
+		}
+		"16148"
+		{
+			"name"		"OLLSTARS Cup Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-11-21"
+			"image_banner"		"econ/leagues/subscriptions_ollstars_cup_season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_ollstars_cup_season_2"
+			"item_description"		"#DOTA_Item_Desc_OLLSTARS_Cup_Season_2"
+			"item_name"		"#DOTA_Item_OLLSTARS_Cup_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/21/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2180"
+					"order"		"647"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://ollstars-tournaments.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16149"
+		{
+			"name"		"ASUS ROG Insomnia53 Dota 2 Cup"
+			"prefab"		"league"
+			"creation_date"		"2014-11-21"
+			"image_banner"		"econ/leagues/subscriptions_asus_rog_insomnia53_dota_2_cup_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_asus_rog_insomnia53_dota_2_cup"
+			"item_description"		"#DOTA_Item_Desc_ASUS_ROG_Insomnia53_Dota_2_Cup"
+			"item_name"		"#DOTA_Item_ASUS_ROG_Insomnia53_Dota_2_Cup"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/21/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2164"
+					"order"		"648"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://insomniagamingfestival.com/i53/tournaments/event/dota-2/"
+			"used_by_heroes"		"1"
+		}
+		"16150"
+		{
+			"name"		"Eternal League Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-11-21"
+			"image_banner"		"econ/leagues/subscriptions_eternal_league_season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_eternal_league_season_2"
+			"item_description"		"#DOTA_Item_Desc_Eternal_League_Season_2"
+			"item_name"		"#DOTA_Item_Eternal_League_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/21/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2146"
+					"order"		"649"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://forum.indogamers.com/showthread.php?t=717558"
+			"used_by_heroes"		"1"
+		}
+		"16151"
+		{
+			"name"		"FirstGameTV DOTA 2 CUP"
+			"prefab"		"league"
+			"creation_date"		"2015-05-21"
+			"image_banner"		"econ/leagues/subscriptions_firstgametv_dota_2_cup_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_firstgametv_dota_2_cup"
+			"item_description"		"#DOTA_Item_Desc_FirstGameTV_DOTA_2_CUP"
+			"item_name"		"#DOTA_Item_FirstGameTV_DOTA_2_CUP"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"5/21/2015"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3013"
+					"order"		"2587"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://https://firstgame.tv/"
+			"used_by_heroes"		"1"
+		}
+		"16152"
+		{
+			"name"		"D2LP Season 3"
+			"prefab"		"league"
+			"creation_date"		"2014-11-21"
+			"image_banner"		"econ/leagues/subscriptions_d2lp_season_3_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_d2lp_season_3"
+			"item_description"		"#DOTA_Item_Desc_D2LP_Season_3"
+			"item_name"		"#DOTA_Item_D2LPR_Season_3"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/21/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2191"
+					"order"		"651"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://www.d2lpr.do.am"
+			"used_by_heroes"		"1"
+		}
+		"16153"
+		{
+			"name"		"iCG-DOTA2 Fall 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-11-21"
+			"image_banner"		"econ/leagues/subscriptions_icgdota2_fall_2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_icgdota2_fall_2014"
+			"item_description"		"#DOTA_Item_Desc_iCGDOTA2_Fall_2014"
+			"item_name"		"#DOTA_Item_iCGDOTA2_Fall_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2166"
+					"order"		"652"
+					"tier"		"professional"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.iCG.ir"
+			"used_by_heroes"		"1"
+		}
+		"16154"
+		{
+			"name"		"Hitbox Obutto Dota2 Championship"
+			"prefab"		"league"
+			"creation_date"		"2014-11-30"
+			"image_banner"		"econ/leagues/subscriptions_hitbox_obutto_dota2_championship_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_hitbox_obutto_dota2_championship"
+			"item_description"		"#DOTA_Item_Desc_Hitbox_Obutto_Dota2_Championship"
+			"item_name"		"#DOTA_Item_Hitbox_Obutto_Dota2_Championship"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2206"
+					"order"		"654"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://www.dotatalk.com/hbodota2"
+			"used_by_heroes"		"1"
+		}
+		"16155"
+		{
+			"name"		"STG League Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-11-30"
+			"image_banner"		"econ/leagues/subscriptions_stg_league_season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_stg_league_season_2"
+			"item_description"		"#DOTA_Item_Desc_STG_League_Season_2"
+			"item_name"		"#DOTA_Item_STG_League_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2213"
+					"order"		"655"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://www.stg-league.ml/"
+			"used_by_heroes"		"1"
+		}
+		"16156"
+		{
+			"name"		"CSPL.RU Dota 2 League Season 3"
+			"prefab"		"league"
+			"creation_date"		"2014-11-30"
+			"image_banner"		"econ/leagues/subscriptions_csplru_dota_2_league_season_3_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_csplru_dota_2_league_season_3"
+			"item_description"		"#DOTA_Item_Desc_CSPLRU_Dota_2_League_Season_3"
+			"item_name"		"#DOTA_Item_CSPLRU_Dota_2_League_Season_3"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2148"
+					"order"		"656"
+					"tier"		"amateur"
+					"location"		"russia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.cspl.ru"
+			"used_by_heroes"		"1"
+		}
+		"16157"
+		{
+			"name"		"Dota International Clan Wars - Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-11-30"
+			"image_banner"		"econ/leagues/subscriptions_dota_international_clan_wars__season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dota_international_clan_wars__season_2"
+			"item_description"		"#DOTA_Item_Desc_Dota_International_Clan_Wars__Season_2"
+			"item_name"		"#DOTA_Item_Dota_International_Clan_Wars__Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2163"
+					"order"		"657"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://www.dotainternational.com/Thread-Registration-Dota-International-s-Clan-Wars-Season-2"
+			"used_by_heroes"		"1"
+		}
+		"16158"
+		{
+			"name"		"Dota 2 Solo League by Phazy: Season 1 "
+			"prefab"		"league"
+			"creation_date"		"2014-11-30"
+			"image_banner"		"econ/leagues/subscriptions_dota_2_solo_league_by_phazy_season_1__ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dota_2_solo_league_by_phazy_season_1_"
+			"item_description"		"#DOTA_Item_Desc_Dota_2_Solo_League_by_Phazy_Season_1_"
+			"item_name"		"#DOTA_Item_Dota_2_Solo_League_by_Phazy_Season_1_"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2232"
+					"order"		"658"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://www.d2lpr.do.am"
+			"used_by_heroes"		"1"
+		}
+		"16159"
+		{
+			"name"		"Battle Cities of the NN Region 1 Season"
+			"prefab"		"league"
+			"creation_date"		"2014-11-30"
+			"image_banner"		"econ/leagues/subscriptions_battle_sities_of_nn_range_1_season_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_battle_sities_of_nn_range_1_season"
+			"item_description"		"#DOTA_Item_Desc_Battle_sities_of_NN_range_1_Season"
+			"item_name"		"#DOTA_Item_Battle_Cities_of_the_NN_Region_1_Season"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"11/30/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2216"
+					"order"		"659"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://esport-nn.ru"
+			"used_by_heroes"		"1"
+		}
+		"16160"
+		{
+			"name"		"i-League Season 2 Ticket"
+			"prefab"		"league"
+			"creation_date"		"2014-12-02"
+			"image_banner"		"econ/leagues/subscriptions_i_league_season_2_ticket_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_i_league_season_2_ticket"
+			"item_description"		"#DOTA_Item_Desc_iLeague_Season_2_Ticket"
+			"item_name"		"#DOTA_Item_iLeague_Season_2_Ticket"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/2/2014"
+				"price"		"0"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2178"
+					"order"		"660"
+					"tier"		"premium"
+					"prize_pool"
+					{
+						"base_prize_pool"		"100000"
+						"stop_sales_time"		"1420970400"
+						"description"		"#DOTA_Item_Desc_iLeague_Season_2_Ticket"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"20689"
+								"revenue_percent"		"0.150000"
+							}
+						}
+					}
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://v.imbatv.cn"
+			"used_by_heroes"		"1"
+		}
+		"16161"
+		{
+			"name"		"Gift Wrap"
+			"prefab"		"tool"
+			"creation_date"		"2014-12-02"
+			"expiration_date"		"2015-03-15 00:00:00"
+			"image_inventory"		"econ/tools/gift_unwrapped_01"
+			"item_description"		"#DOTA_Item_Desc_Gift_Wrap"
+			"item_name"		"#DOTA_Item_Gift_Wrap"
+			"item_rarity"		"rare"
+			"tool"
+			{
+				"type"		"gift_wrap"
+				"use_string"		"#WrapGift"
+				"usage_capabilities"
+				{
+					"can_gift_wrap"		"1"
+				}
+			}
+			"used_by_heroes"		"1"
+		}
+		"16162"
+		{
+			"name"		"Wrapped Gift"
+			"prefab"		"tool"
+			"capabilities"
+			{
+				"nameable"		"1"
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-12-02"
+			"image_inventory"		"econ/tools/gift_wrapped_01"
+			"item_description"		"#DOTA_Item_Desc_Wrapped_Gift"
+			"item_name"		"#DOTA_Item_Wrapped_Gift"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_Mysterious_Item"
+			"reward_sound"		"Gift_Received_Stinger"
+			"static_attributes"
+			{
+				"not marketable"
+				{
+					"attribute_class"		"not marketable"
+					"value"		"1"
+				}
+				"cannot trade"
+				{
+					"attribute_class"		"cannot_trade"
+					"value"		"1"
+				}
+			}
+			"tool"
+			{
+				"type"		"wrapped_gift"
+				"use_string"		"#UnwrapGift"
+			}
+			"used_by_heroes"		"1"
+		}
+		"16163"
+		{
+			"name"		"DA 5v5 Team Series - June 2015"
+			"prefab"		"league"
+			"creation_date"		"2015-06-02"
+			"image_banner"		"econ/leagues/subscriptions_da_5v5_team_series__june_2015_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_da_5v5_team_series__june_2015"
+			"item_description"		"#DOTA_Item_Desc_DA_5v5_Team_Series__June_2015"
+			"item_name"		"#DOTA_Item_DA_5v5_Team_Series__June_2015"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"6/2/2015"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3282"
+					"order"		"2601"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://www.dota-athletes.com/"
+			"used_by_heroes"		"1"
+		}
+		"16164"
+		{
+			"name"		"Indodota Alpha Tournament"
+			"prefab"		"league"
+			"creation_date"		"2014-12-02"
+			"image_banner"		"econ/leagues/subscriptions_indodota_alpha_tournament_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_indodota_alpha_tournament"
+			"item_description"		"#DOTA_Item_Desc_Indodota_Alpha_Tournament"
+			"item_name"		"#DOTA_Item_Indodota_Alpha_Tournament"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2185"
+					"order"		"662"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.indodota.com/index/indodota-alpha-tournament/"
+			"used_by_heroes"		"1"
+		}
+		"16165"
+		{
+			"name"		"Boredgamer.co.uk Dota2 One Night One Cup"
+			"prefab"		"league"
+			"creation_date"		"2014-12-02"
+			"image_banner"		"econ/leagues/subscriptions_boredgamercouk_dota2_one_night_one_cup_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_boredgamercouk_dota2_one_night_one_cup"
+			"item_description"		"#DOTA_Item_Desc_Boredgamercouk_Dota2_One_Night_One_Cup"
+			"item_name"		"#DOTA_Item_Boredgamercouk_Dota2_One_Night_One_Cup"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2210"
+					"order"		"663"
+					"tier"		"amateur"
+					"location"		"europe"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://boredgamer.co.uk"
+			"used_by_heroes"		"1"
+		}
+		"16166"
+		{
+			"name"		"Effigy Block of Frost"
+			"prefab"		"tool"
+			"capabilities"
+			{
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-12-03"
+			"image_inventory"		"econ/tools/effigyblock_ice"
+			"item_class"		"dota_item_wearable"
+			"item_description"		"#DOTA_Item_Desc_Effigy_Block_of_Frost"
+			"item_name"		"#DOTA_Item_Effigy_Block_of_Frost"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_"
+			"static_attributes"
+			{
+				"is commodity"
+				{
+					"attribute_class"		"is commodity"
+					"value"		"1"
+				}
+			}
+			"tool"
+			{
+				"type"		"hero_statue_forge"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"status_effect"		"2"
+					"effigy_itemdef_index"		"10965"
+				}
+			}
+		}
+		"16167"
+		{
+			"name"		"Low Skill Cup Season 2"
+			"prefab"		"league"
+			"creation_date"		"2015-06-02"
+			"image_banner"		"econ/leagues/subscriptions_low_skill_cup_season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_low_skill_cup_season_2"
+			"item_description"		"#DOTA_Item_Desc_Low_Skill_Cup_Season_2"
+			"item_name"		"#DOTA_Item_Low_Skill_Cup_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"6/2/2015"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3290"
+					"order"		"2604"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://lowskillcup.ru"
+			"used_by_heroes"		"1"
+		}
+		"16168"
+		{
+			"name"		"Rappler Gaming League Season 1"
+			"prefab"		"league"
+			"creation_date"		"2015-06-02"
+			"image_banner"		"econ/leagues/subscriptions_rappler_gaming_league_season_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_rappler_gaming_league_season_1"
+			"item_description"		"#DOTA_Item_Desc_Rappler_Gaming_League_Season_1"
+			"item_name"		"#DOTA_Item_Rappler_Gaming_League_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3232"
+					"order"		"2605"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.rappler.com/video/specials/92691-rappler-gaming-league-tournament"
+			"used_by_heroes"		"1"
+		}
+		"16169"
+		{
+			"name"		"Liga Amateur Internacional No Respeta"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_liga_amateur_internacional_no_respeta_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_liga_amateur_internacional_no_respeta"
+			"item_description"		"#DOTA_Item_Desc_Liga_Amateur_Internacional_No_Respeta"
+			"item_name"		"#DOTA_Item_Liga_Amateur_Internacional_No_Respeta"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2137"
+					"order"		"664"
+					"tier"		"amateur"
+					"location"		"northamerica"
+				}
+			}
+			"tournament_url"		"http://norespeta.com/2014/10/15/liga-amateur-internacional-no-respeta-diciembre-2014/"
+			"used_by_heroes"		"1"
+		}
+		"16170"
+		{
+			"name"		"The Secret Cup"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_the_secret_cup_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_the_secret_cup"
+			"item_description"		"#DOTA_Item_Desc_THE_SECRET_CUP"
+			"item_name"		"#DOTA_Item_The_Secret_Cup"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2170"
+					"order"		"665"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://www.safehousesa.net/"
+			"used_by_heroes"		"1"
+		}
+		"16171"
+		{
+			"name"		"Tournament of Mother Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_tournament_f_mother_season_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_tournament_f_mother_season_1"
+			"item_description"		"#DOTA_Item_Desc_Tournament_of_Mother_Season_1"
+			"item_name"		"#DOTA_Item_Tournament_of_Mother_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2144"
+					"order"		"666"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://tomd2.com/"
+			"used_by_heroes"		"1"
+		}
+		"16172"
+		{
+			"name"		"Baltic Dota League Season2"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_baltic_dota_league_season2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_baltic_dota_league_season2"
+			"item_description"		"#DOTA_Item_Desc_Baltic_Dota_League_Season2"
+			"item_name"		"#DOTA_Item_Baltic_Dota_League_Season2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2187"
+					"order"		"667"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://www.BalticDota.com"
+			"used_by_heroes"		"1"
+		}
+		"16173"
+		{
+			"name"		"DA 1v1 Mirror Series - June 2015"
+			"prefab"		"league"
+			"creation_date"		"2015-06-02"
+			"image_banner"		"econ/leagues/subscriptions_da_1v1_mirror_series__june_2015_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_da_1v1_mirror_series__june_2015"
+			"item_description"		"#DOTA_Item_Desc_DA_1v1_Mirror_Series__June_2015"
+			"item_name"		"#DOTA_Item_DA_1v1_Mirror_Series__June_2015"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"6/2/2015"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3283"
+					"order"		"2606"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://www.dota-athletes.com"
+			"used_by_heroes"		"1"
+		}
+		"16174"
+		{
+			"name"		"Meister Dota 2 Captain Draft Tournament"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_meister_dota_2_captain_draft_tournament_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_meister_dota_2_captain_draft_tournament"
+			"item_description"		"#DOTA_Item_Desc_Meister_Dota_2_Captain_Draft_Tournament"
+			"item_name"		"#DOTA_Item_Meister_Dota_2_Captain_Draft_Tournament"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2192"
+					"order"		"668"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.maindota2.com/uncategorized/meister-dota-2-tournament-captain-draft/"
+			"used_by_heroes"		"1"
+		}
+		"16175"
+		{
+			"name"		"Liga Dotera Venezolana Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_liga_dotera_venezolana_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_liga_dotera_venezolana"
+			"item_description"		"#DOTA_Item_Desc_Liga_Dotera_Venezolana"
+			"item_name"		"#DOTA_Item_Liga_Dotera_Venezolana"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2285"
+					"order"		"669"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://www.cdven.com.ve/"
+			"used_by_heroes"		"1"
+		}
+		"16176"
+		{
+			"name"		"E-Spot Dota2 Rare Challenge"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_espot_dota2_rare_challenge_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_espot_dota2_rare_challenge"
+			"item_description"		"#DOTA_Item_Desc_ESpot_Dota2_Rare_Challenge"
+			"item_name"		"#DOTA_Item_ESpot_Dota2_Rare_Challenge"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2225"
+					"order"		"670"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://www.e-spotd2c.com/"
+			"used_by_heroes"		"1"
+		}
+		"16177"
+		{
+			"name"		"Dimension League"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_dimension_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dimension_league"
+			"item_description"		"#DOTA_Item_Desc_Dimension_League"
+			"item_name"		"#DOTA_Item_Dimension_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2149"
+					"order"		"671"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"http://dotadimension.com.ve"
+			"used_by_heroes"		"1"
+		}
+		"16178"
+		{
+			"name"		"Japan Dota Cup #3"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_japan_dota_cup_3_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_japan_dota_cup_3"
+			"item_description"		"#DOTA_Item_Desc_Japan_Dota_Cup_#3"
+			"item_name"		"#DOTA_Item_Japan_Dota_Cup_#3"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2242"
+					"order"		"672"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://japandota.com/tournament/"
+			"used_by_heroes"		"1"
+		}
+		"16179"
+		{
+			"name"		"Oasis Gaming Cup"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_oasis_gaming_cup_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_oasis_gaming_cup"
+			"item_description"		"#DOTA_Item_Desc_Oasis_Gaming_Cup"
+			"item_name"		"#DOTA_Item_Oasis_Gaming_Cup"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2310"
+					"order"		"673"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://living-gaming.com/oasis-gaming-cup-dota-2-online-tournament/"
+			"used_by_heroes"		"1"
+		}
+		"16180"
+		{
+			"name"		"Ren Ren Yi Che Joy League First Season"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_ren_ren_yi_che_joy_league_first_season_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_ren_ren_yi_che_joy_league_first_season"
+			"item_description"		"#DOTA_Item_Desc_Ren_Ren_Yi_Che_Joy_League_First_Season"
+			"item_name"		"#DOTA_Item_Ren_Ren_Yi_Che_Joy_League_First_Season"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2233"
+					"order"		"674"
+					"tier"		"amateur"
+					"location"		"china"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.renrenyiche.com/"
+			"used_by_heroes"		"1"
+		}
+		"16181"
+		{
+			"name"		"Torneos Dota Latino"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_torneos_dota_latino_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_torneos_dota_latino"
+			"item_description"		"#DOTA_Item_Desc_Torneos_Dota_Latino"
+			"item_name"		"#DOTA_Item_Torneos_Dota_Latino"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2234"
+					"order"		"675"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://www.tdlatino.com"
+			"used_by_heroes"		"1"
+		}
+		"16182"
+		{
+			"name"		"Ollin League Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_ollin_league_season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_ollin_league_season_2"
+			"item_description"		"#DOTA_Item_Desc_Ollin_League_Season_2"
+			"item_name"		"#DOTA_Item_Ollin_League_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2175"
+					"order"		"676"
+					"tier"		"amateur"
+					"location"		"northamerica"
+				}
+			}
+			"tournament_url"		"http://ollin-gaming.com/gaming/torneos/ollin-league-temporada-2"
+			"used_by_heroes"		"1"
+		}
+		"16183"
+		{
+			"name"		"Militant Cup: Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-04"
+			"image_banner"		"econ/leagues/subscriptions_militant_cup_season_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_militant_cup_season_1"
+			"item_description"		"#DOTA_Item_Desc_Militant_Cup_Season_1"
+			"item_name"		"#DOTA_Item_Militant_Cup_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/4/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2238"
+					"order"		"677"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://mlcup.ru"
+			"used_by_heroes"		"1"
+		}
+		"16184"
+		{
+			"name"		"Montenegro National League Season 2"
+			"prefab"		"league"
+			"creation_date"		"2014-12-05"
+			"image_banner"		"econ/leagues/subscriptions_montenegro_national_league_season_2_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_montenegro_national_league_season_2"
+			"item_description"		"#DOTA_Item_Desc_Montenegro_National_League_Season_2"
+			"item_name"		"#DOTA_Item_Montenegro_National_League_Season_2"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/5/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2062"
+					"order"		"678"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://esscg.me/prvaliga"
+			"used_by_heroes"		"1"
+		}
+		"16185"
+		{
+			"name"		"Black Dolphin Inhouse League Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-05"
+			"image_banner"		"econ/leagues/subscriptions_black_dolphin_inhouse_league_season_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_black_dolphin_inhouse_league_season_1"
+			"item_description"		"#DOTA_Item_Desc_Black_Dolphin_Inhouse_League_Season_1"
+			"item_name"		"#DOTA_Item_Black_Dolphin_Inhouse_League_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2315"
+					"order"		"679"
+					"tier"		"amateur"
+					"location"		"russia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://ollstars-tournaments.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16186"
+		{
+			"name"		"DotaPB League"
+			"prefab"		"league"
+			"creation_date"		"2014-12-05"
+			"image_banner"		"econ/leagues/subscriptions_dotapb_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dotapb_league"
+			"item_description"		"#DOTA_Item_Desc_DotaPB_League"
+			"item_name"		"#DOTA_Item_DotaPB_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/5/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2323"
+					"order"		"680"
+					"tier"		"amateur"
+					"location"		"southamerica"
+				}
+			}
+			"tournament_url"		"https://www.dropbox.com/s/ngvoed6mdnaozp0/DOTAPB%20league.xlsx?dl=0"
+			"used_by_heroes"		"1"
+		}
+		"16187"
+		{
+			"name"		"Sri Lanka Cyber Games (SLCG) 2014"
+			"prefab"		"league"
+			"creation_date"		"2014-12-05"
+			"image_banner"		"econ/leagues/subscriptions_sri_lanka_cyber_games_slcg_2014_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_sri_lanka_cyber_games_slcg_2014"
+			"item_description"		"#DOTA_Item_Desc_Sri_Lanka_Cyber_Games_SLCG_2014"
+			"item_name"		"#DOTA_Item_Sri_Lanka_Cyber_Games_SLCG_2014"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2328"
+					"order"		"681"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.slcg.lk/"
+			"used_by_heroes"		"1"
+		}
+		"16188"
+		{
+			"name"		"Hard Core Dota 2 Tournament"
+			"prefab"		"league"
+			"creation_date"		"2014-12-05"
+			"image_banner"		"econ/leagues/subscriptions_hard_core_dota_2_tournament_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_hard_core_dota_2_tournament"
+			"item_description"		"#DOTA_Item_Desc_Hard_Core_Dota_2_Tournament"
+			"item_name"		"#DOTA_Item_Hard_Core_Dota_2_Tournament"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2327"
+					"order"		"682"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.ligagame.com/forum/index.php/topic,150536.0.html"
+			"used_by_heroes"		"1"
+		}
+		"16189"
+		{
+			"name"		"Aspen's Cup Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-05"
+			"image_banner"		"econ/leagues/subscriptions_aspens_cup_season_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_aspens_cup_season_1"
+			"item_description"		"#DOTA_Item_Desc_Aspens_Cup_Season_1"
+			"item_name"		"#DOTA_Item_Aspens_Cup_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/5/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2326"
+					"order"		"683"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://aspencup.ucoz.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16190"
+		{
+			"name"		"Game Masters MOL Dota2 Championship"
+			"prefab"		"league"
+			"creation_date"		"2014-12-05"
+			"image_banner"		"econ/leagues/subscriptions_game_masters_mol_dota2_championship_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_game_masters_mol_dota2_championship"
+			"item_description"		"#DOTA_Item_Desc_Game_Masters_MOL_Dota2_Championship"
+			"item_name"		"#DOTA_Item_Game_Masters_MOL_Dota2_Championship"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/5/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2167"
+					"order"		"684"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://genysis.com.my/esport/mol-dota2-championship/index.html"
+			"used_by_heroes"		"1"
+		}
+		"16191"
+		{
+			"name"		"PlayDota League Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-08"
+			"image_banner"		"econ/leagues/subscriptions_playdota_league_season_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_playdota_league_season_1"
+			"item_description"		"#DOTA_Item_Desc_PlayDota_League_Season_1"
+			"item_name"		"#DOTA_Item_PlayDota_League_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2256"
+					"order"		"685"
+					"tier"		"amateur"
+					"location"		"northamerica"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://playdota.com/forums/showthread.php?p=9589941#post9589941"
+			"used_by_heroes"		"1"
+		}
+		"16192"
+		{
+			"name"		"Dota2arena.ru Close Tournament"
+			"prefab"		"league"
+			"creation_date"		"2015-06-10"
+			"image_banner"		"econ/leagues/subscriptions_closed_tournament_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_closed_tournament"
+			"item_description"		"#DOTA_Item_Desc_Dota2arenaru_Close_Tournament"
+			"item_name"		"#DOTA_Item_Dota2arenaru_Close_Tournament"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3333"
+					"order"		"2609"
+					"tier"		"amateur"
+					"location"		"russia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.dota2arena.ru"
+			"used_by_heroes"		"1"
+		}
+		"16193"
+		{
+			"name"		"Polish DOTA 2 League"
+			"prefab"		"league"
+			"creation_date"		"2015-06-11"
+			"image_banner"		"econ/leagues/subscriptions_polish_dota_2_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_polish_dota_2_league"
+			"item_description"		"#DOTA_Item_Desc_Polish_DOTA_2_League"
+			"item_name"		"#DOTA_Item_Polish_DOTA_2_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"6/11/2015"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3228"
+					"order"		"2610"
+					"tier"		"amateur"
+					"location"		"europe"
+				}
+			}
+			"tournament_url"		"http://www.pd2l.pl"
+			"used_by_heroes"		"1"
+		}
+		"16194"
+		{
+			"name"		"64QuartersCup Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-08"
+			"image_banner"		"econ/leagues/subscriptions_64quarterscup_season_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_64quarterscup_season_1"
+			"item_description"		"#DOTA_Item_Desc_64QuartersCup_Season_1"
+			"item_name"		"#DOTA_Item_64QuartersCup_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/8/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2331"
+					"order"		"686"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://quarterscup.3dn.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16195"
+		{
+			"name"		"Dota2Baz Pro League"
+			"prefab"		"league"
+			"creation_date"		"2014-12-08"
+			"image_banner"		"econ/leagues/subscriptions_dota2baz_pro_league_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dota2baz_pro_league"
+			"item_description"		"#DOTA_Item_Desc_Dota2Baz_Pro_League"
+			"item_name"		"#DOTA_Item_Dota2Baz_Pro_League"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/8/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2312"
+					"order"		"687"
+					"tier"		"amateur"
+					"location"		"southeastasia"
+				}
+			}
+			"tournament_url"		"http://www.dota2baz.com"
+			"used_by_heroes"		"1"
+		}
+		"16196"
+		{
+			"name"		"Amazing Pandas Winter #1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-08"
+			"image_banner"		"econ/leagues/subscriptions_amazing_pandas_winter_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_amazing_pandas_winter_1"
+			"item_description"		"#DOTA_Item_Desc_Amazing_Pandas_Winter_#1"
+			"item_name"		"#DOTA_Item_Amazing_Pandas_Winter_#1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2313"
+					"order"		"688"
+					"tier"		"amateur"
+					"location"		"russia"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://www.amazing-pandas.ru"
+			"used_by_heroes"		"1"
+		}
+		"16197"
+		{
+			"name"		"Crystal-Tournament #1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-08"
+			"image_banner"		"econ/leagues/subscriptions_crystaltornament_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_crystaltornament_1"
+			"item_description"		"#DOTA_Item_Desc_Crystaltornament_1"
+			"item_name"		"#DOTA_Item_CrystalTournament_#1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/8/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2317"
+					"order"		"689"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://olishevskiy7.wix.com/crystal-turnament"
+			"used_by_heroes"		"1"
+		}
+		"16198"
+		{
+			"name"		"UnderCastleLeague Season 1"
+			"prefab"		"league"
+			"creation_date"		"2014-12-08"
+			"image_banner"		"econ/leagues/subscriptions_undercastleleague_season_1_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_undercastleleague_season_1"
+			"item_description"		"#DOTA_Item_Desc_UnderCastleLeague_Season_1"
+			"item_name"		"#DOTA_Item_UnderCastleLeague_Season_1"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"12/8/2014"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2343"
+					"order"		"690"
+					"tier"		"professional"
+				}
+			}
+			"tournament_url"		"http://undercastle.ucoz.ru/"
+			"used_by_heroes"		"1"
+		}
+		"16199"
+		{
+			"name"		"Krane the Enlightened Upgrade"
+			"prefab"		"tool"
+			"creation_date"		"2014-12-10"
+			"image_inventory"		"econ/items/courier/xianhe_stork_upgrade/xianhe_stork_upgrade3"
+			"item_description"		"#DOTA_Item_Desc_Krane_the_Enlightened_Upgrade"
+			"item_name"		"#DOTA_Item_Krane_the_Enlightened_Upgrade"
+			"item_rarity"		"rare"
+			"item_type_name"		"#DOTA_WearableType_Style_Unlock"
+			"static_attributes"
+			{
+				"tradable after date"
+				{
+					"attribute_class"		"tradable_after_date"
+					"value"		"1425168000"
+				}
+			}
+			"tool"
+			{
+				"type"		"style_unlock"
+				"usage"
+				{
+					"item"		"Krane the Enlightened"
+					"style"		"1"
+				}
+				"usage_capabilities"
+				{
+					"nameable"		"1"
+				}
+				"use_string"		"#UnlockStyle"
+			}
+		}
+		"16200"
+		{
+			"name"		"Red Bull LAN - Seattle"
+			"prefab"		"league"
+			"creation_date"		"2014-12-11"
+			"image_banner"		"econ/leagues/subscriptions_red_bull_lan__seattle_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_red_bull_lan__seattle"
+			"item_description"		"#DOTA_Item_Desc_Red_Bull_LAN__Seattle"
+			"item_name"		"#DOTA_Item_Red_Bull_LAN__Seattle"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2349"
+					"order"		"691"
+					"tier"		"professional"
+					"location"		"unset"
+					"free_to_spectate"		"1"
+				}
+			}
+			"tournament_url"		"http://redbull.com/seattlelan"
+			"used_by_heroes"		"1"
+		}
+		"16202"
+		{
+			"name"		"Frostivus Treasure Redemption Token"
+			"prefab"		"key"
+			"capabilities"
+			{
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-12-11"
+			"image_inventory"		"econ/tools/snow_redemption"
+			"item_description"		"#DOTA_Item_Desc_Copy_of_Treasure_Redemption_Token"
+			"item_name"		"#DOTA_Item_Frostivus_Treasure_Redemption_Token"
+			"item_rarity"		"rare"
+			"sound_material"		"3"
+			"static_attributes"
+			{
+				"is commodity"
+				{
+					"attribute_class"		"is commodity"
+					"value"		"1"
+				}
+			}
+			"tool"
+			{
+				"type"		"item_redemption"
+				"use_string"		"#DOTA_UI_Redeem2"
+				"usage"
+				{
+					"redemption"		"treasure_redemption_token"
+				}
+			}
+		}
+		"16203"
+		{
+			"name"		"Dota 2 Asia Championship 2015"
+			"prefab"		"league"
+			"creation_date"		"2014-12-31"
+			"image_banner"		"econ/leagues/subscriptions_dota_2_asia_championship_2015_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_dota_2_asia_championship_2015"
+			"item_description"		"#DOTA_Item_Desc_Dota_2_Asia_Championship_2015"
+			"item_name"		"#DOTA_Item_Dota_2_Asia_Championship_2015"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"2339"
+					"order"		"34"
+					"prize_pool"
+					{
+						"base_prize_pool"		"250000"
+						"stop_sales_time"		"1423440000"
+						"description"		"#DOTA_Item_Desc_Dota_2_Asia_Championship_2015"
+						"items"
+						{
+							"0"
+							{
+								"itemdef"		"16209"
+								"revenue_percent"		"0.250000"
+							}
+							"1"
+							{
+								"itemdef"		"16207"
+								"revenue_percent"		"0.250000"
+							}
+							"2"
+							{
+								"itemdef"		"16208"
+								"revenue_percent"		"0.250000"
+							}
+						}
+					}
+					"tier"		"premium"
+					"private"		"0"
+					"free_to_spectate"		"1"
+					"fantasy"		"1"
+					"purchase_bundle"		"16209"
+				}
+			}
+			"tournament_url"		"http://dac.dota2.com.cn/compendium/"
+		}
+		"16204"
+		{
+			"name"		"DOTA 2 EVERY DAY"
+			"prefab"		"league"
+			"creation_date"		"2015-06-11"
+			"image_banner"		"econ/leagues/subscriptions_every_day_ingame"
+			"image_inventory"		"econ/leagues/subscriptions_every_day"
+			"item_description"		"#DOTA_Item_Desc_EVERY_DAY"
+			"item_name"		"#DOTA_Item_DOTA_2_EVERY_DAY"
+			"item_type_name"		"#DOTA_WearableType_Ticket"
+			"price_info"
+			{
+				"category_tags"		"Tournaments"
+				"date"		"6/11/2015"
+				"price"		"99"
+			}
+			"tool"
+			{
+				"type"		"league_view_pass"
+				"use_string"		"#ConsumeItem"
+				"usage"
+				{
+					"league_id"		"3332"
+					"order"		"2611"
+					"tier"		"amateur"
+					"location"		"russia"
+				}
+			}
+			"tournament_url"		"http://edayleague.com/"
+			"used_by_heroes"		"1"
+		}
+		"16205"
+		{
+			"name"		"DAC 2015 - 25 Points"
+			"prefab"		"tool"
+			"capabilities"
+			{
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-12-11"
+			"expiration_date"		"2015-03-01"
+			"hide_tradecraftdelete"		"1"
+			"image_inventory"		"econ/tools/dac_compendium_2015_25"
+			"item_description"		"#DOTA_Item_Desc_Dota_2_Asia_Championship_2015__25_Compendium_Points"
+			"item_name"		"#DOTA_Item_DAC_2015__25_Points"
+			"item_rarity"		"rare"
+			"static_attributes"
+			{
+				"cannot trade"
+				{
+					"attribute_class"		"cannot_trade"
+					"value"		"1"
+				}
+				"not marketable"
+				{
+					"attribute_class"		"not marketable"
+					"value"		"1"
+				}
+				"cannot delete"
+				{
+					"attribute_class"		"cannot_delete"
+					"value"		"1"
+				}
+			}
+			"tool"
+			{
+				"type"		"event_points"
+				"use_string"		"#CompendiumPoints"
+				"usage"
+				{
+					"event_id"		"6"
+					"points"		"25"
+					"require_league_id"		"2339"
+					"compendium_league"		"2339"
+				}
+			}
+		}
+		"16206"
+		{
+			"name"		"Dota 2 Asia Championship 2015 - 100 Compendium Points"
+			"prefab"		"tool"
+			"capabilities"
+			{
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-12-11"
+			"hide_tradecraftdelete"		"1"
+			"image_inventory"		"econ/tools/dac_compendium_2015_100"
+			"item_description"		"#DOTA_Item_Desc_Dota_2_Asia_Championship_2015__100_Compendium_Points"
+			"item_name"		"#DOTA_Item_Dota_2_Asia_Championship_2015__100_Compendium_Points"
+			"item_rarity"		"rare"
+			"static_attributes"
+			{
+				"cannot delete"
+				{
+					"attribute_class"		"cannot_delete"
+					"value"		"1"
+				}
+				"is commodity"
+				{
+					"attribute_class"		"is commodity"
+					"value"		"1"
+				}
+			}
+			"tool"
+			{
+				"type"		"event_points"
+				"use_string"		"#CompendiumPoints"
+				"usage"
+				{
+					"event_id"		"6"
+					"points"		"100"
+					"compendium_league"		"2339"
+				}
+			}
+		}
+		"16207"
+		{
+			"name"		"Dota 2 Asia Championship 2015 - 500 Compendium Points"
+			"prefab"		"tool"
+			"capabilities"
+			{
+				"usable_gc"		"1"
+				"usable_out_of_game"		"1"
+			}
+			"creation_date"		"2014-12-11"
+			"hide_tradecraftdelete"		"1"
+			"image_inventory"		"econ/tools/dac_compendium_2015_500"
+			"item_description"		"#DOTA_Item_Desc_Dota_2_Asia_Championship_2015__500_Compendium_Points"
+			"item_name"		"#DOTA_Item_Dota_2_Asia_Championship_2015__500_Compendium_Points"
+			"item_rarity"		"rare"
+			"static_attributes"
+			{
+				"cannot delete"
+				{
+					"attribute_class"		"cannot_delete"
+					"value"		"1"
+				}
+				"is commodity"
+				{
+					"attribute_class"		"is commodity"
+					"value"		"1"
+				}
+			}
+			"tool"
+			{
+				"type"		"event_points"
+				"use_string"		"#CompendiumPoints"
+				"usage"
+				{
+					"event_id"		"6"
+					"points"		"500"
+					"require_league_id"		"2339"
+					"compendium_league"		"2339"
+				}
+			}
+		}
+		

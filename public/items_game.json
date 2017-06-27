@@ -1,0 +1,32 @@
+{
+"items": {
+		"15323": {
+			"name": "Gem of Taegeuk",
+			"prefab": "socket_gem",
+			"creation_date": "2013-10-16",
+			"disable_style_selector": "1",
+			"image_inventory": "econ/tools/samtaegeuk",
+			"item_description": "#DOTA_Item_Desc_Gem_of_Taegeuk",
+			"item_name": "#DOTA_Item_Gem_of_Taegeuk",
+			"item_rarity": "rare",
+			"item_type_name": "#DOTA_WearableType_Relic_of_Prestige",
+			"static_attributes": {
+				"gem type": {
+					"attribute_class": "gem type",
+					"value": "3"
+				},
+				"cannot trade": {
+					"attribute_class": "cannot_trade",
+					"value": "1"
+				},
+				"gem quality": {
+					"attribute_class": "gem quality",
+					"value": "14"
+				}
+			},
+			"used_by_heroes": "0"
+		}
+		
+		
+	}
+}
